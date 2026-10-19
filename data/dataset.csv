@@ -1,0 +1,643 @@
+text,intent
+cara pendaftaran haji tnapa datang ke kantor gimana ya?,prosedur_daftar_online
+Apa yang harus saya siapkan kalau mau pembatalan nomor porsi haji orang tua yang sudah meninggal?,syarat_batal_meninggal
+Output layanan haji apa saja?,produk_layanan
+"Pertanyaan saya sudah terjawab, terima kasih",terima_kasih
+Berkas apa yang dibutuhkan untuk daftar haji lewat aplikasi Haji Pintar?,syarat_daftar_online
+"Hai, apa kabar?",sapaan
+Persyaratan pembatalan nomor porsi haji karena sakit apa aja ya?,syarat_batal_sakit
+Evaluasi kinerja dilakukan setahun sekali?,info_petugas_pengawasan
+Apakah di sini bisa mengurus pelimpahan porsi?,jenis_layanan
+Gratis nggak sih layanan haji di sini?,biaya_layanan
+prosedur menarik setoran awal haji karena faktor ekonomi,prosedur_batal_ekonomi
+Apa yang harus saya siapkan kalau mau pindah nama porsi haji karena sakit permanen?,syarat_limpah_sakit
+"Oke saya mengerti, makasih",terima_kasih
+"Mau pendaftaran haji tanpa datang ke kantor, harus bawa apa?",syarat_daftar_online
+prosedur batal haji jemaah sakit,prosedur_batal_sakit
+Apakah data yang saya serahkan dirahasiakan?,jaminan_data_pribadi
+Mau kasih saran layanan ke mana?,kontak_pengaduan
+Dokumen apa yang harus disiapkan untuk pelimpahan porsi haji untuk jemaah yang sakit permanen?,syarat_limpah_sakit
+Kelengkapan apa yang perlu dibawa untuk daftar haji online?,syarat_daftar_online
+Kelengkapan apa yang perlu dibawa untuk daftar haji di Kemenhaj Lhokseumawe?,syarat_daftar_kantor
+Kelengkapan apa yang perlu dibawa untuk membatalkan porsi haji karena kondisi kesehatan?,syarat_batal_sakit
+daftar haji via aplikasi butuh dokumen apa?,syarat_daftar_online
+apakah layanan berbayar?,biaya_layanan
+Bagaimana prosedur daftar haji langsung ke kantor Kemenhaj?,prosedur_daftar_kantor
+Layanan dijalankan sesuai standar operasional prosedur?,jaminan_data_pribadi
+"Saya mau pembatalan haji reguler jemaah sakit, mulai dari mana?",prosedur_batal_sakit
+Apa jaminan pelayanan di kantor haji?,jaminan_data_pribadi
+Proses daftar haji dari rumah lewat HP itu bagaimana?,prosedur_daftar_online
+batal haji karena ekonomi butuh dokumen apa?,syarat_batal_ekonomi
+cara pendaftaran haji reguler melalui layanan kantor gimnaa ya?,prosedur_daftar_kantor
+Kelengkapan apa yang perlu dibawa untuk pelimpahan porsi haji untuk jemaah yang sakit permanen?,syarat_limpah_sakit
+Langkah-langkah daftar haji langsung ke kantor Kemenhaj gimana?,prosedur_daftar_kantor
+Persyaratan mengalihkan nomor porsi haji jmaah yang wafat apa aja ya?,syarat_limpah_meninggal
+Gimana alur pembatalan nomor porsi haji karena sakit?,prosedur_batal_sakit
+Siapa yang melayani pendaftaran haji?,info_petugas_pengawasan
+"Mau pembatalan haji reguler jemaah meninggal, harus bawa apa?",syarat_batal_meninggal
+Apa saja tahapan yang harus dilalui untuk pendaftaran haji reguler lewat layanan elektronik?,prosedur_daftar_online
+Berapa lama layanan haji diselesaikan?,waktu_layanan
+Langkah-langkah pembatalan haji reguler jemaah meninggal gimana?,prosedur_batal_meninggal
+Bagaimana prosedur daftar haji lewat aplikasi Haji Pintar?,prosedur_daftar_online
+Jelaskan mekanisme cabut porsi haji karena ekonomi,prosedur_batal_ekonomi
+"Mau pelimpahan haji reguler jemaah sakit permanen, harus bawa apa?",syarat_limpah_sakit
+Langkah-langkah mendaftar haji secara elektronik gimana?,prosedur_daftar_online
+Apa yang harus saya siapkan kalau mau daftar haji via aplikasi?,syarat_daftar_online
+"Saya kurang puas dengan pelayanan, lapor ke mana?",kontak_pengaduan
+Kelengkapan apa yang perlu dibawa untuk daftar haji maunal di kantor?,syarat_daftar_kantor
+Hai kak,sapaan
+Langkah-langkah pembatalan nomor porsi haji karena sakit gimana?,prosedur_batal_sakit
+Persyaratan ahli waris melimpahkan porsi haji apa aja ya?,syarat_limpah_meninggal
+Tahapan pembatalan porsi haji karena sakit yang diwakilkan keluarga seperti apa?,prosedur_batal_sakit
+Apa itu machine learning?,di_luar_cakupan
+persyaratan pelimpahan nomor porsi haji karena sakit permanen,syarat_limpah_sakit
+pengembalian setoran awal haji jemaah yang wafat butuh dokumen apa?,syarat_batal_meninggal
+prosedur batalkan nomor porsi haji alasan ekonomi,prosedur_batal_ekonomi
+Apa saja tahapan yang harus dilalui utnuk pendaftaran haji reguler melalui layanan kantor?,prosedur_daftar_kantor
+Apakah ada biaya admin pengurusan?,biaya_layanan
+Apakah ada evaluasi kinerja pelayanan?,info_petugas_pengawasan
+Jelaskan mekanisme pembatalan porsi haji jemaah yang meninggal dunia,prosedur_batal_meninggal
+Bagaimana prosedur pendaftaran haji reguler melalui layanan kantor?,prosedur_daftar_kantor
+"Saya mau batalkan nomor porsi haji alasan ekonomi, mulai dari mana?",prosedur_batal_ekonomi
+syarat daftar haji lewat aplikasi Haji Pintar,syarat_daftar_online
+Berkas apa yang dibutuhkan untuk ahli waris membatalkan porsi haji?,syarat_batal_meninggal
+Hi bot,sapaan
+Bagaimana cara pembatalan porsi haji jemaah yang meninggal dunia?,prosedur_batal_meninggal
+"Siap, terima kasih",terima_kasih
+Bagaimana prosedur membatalkan porsi haji karena kondisi kesehatan?,prosedur_batal_sakit
+Berkas apa yang dibutuhkan untuk ahli waris melimpahkan porsi haji?,syarat_limpah_meninggal
+Berapa lama proses pembatalan haji?,waktu_layanan
+Permisi,sapaan
+Berapa kuota haji Lhokseumawe tahun ini?,di_luar_cakupan
+daftar haji lewat aplikasi Haji Pintar butuh dokumen apa?,syarat_daftar_online
+pelimpahan haji reguler karena jemaah wafat butuh dokumen apa?,syarat_limpah_meninggal
+Alur daftar haji di Kemenhaj Lhokseumawe bagaimana kak?,prosedur_daftar_kantor
+Langkah-langkah pembatalan haji reguler jemaah sakit gimana?,prosedur_batal_sakit
+Berkas apa yang dibutuhkan untuk batalkan nomor porsi karena sakit?,syarat_batal_sakit
+Proses daftar haji langsung ke kantor Kemenhaj itu bagaimana?,prosedur_daftar_kantor
+batalkan nomor porsi karena sakit butuh dokumen apa?,syarat_batal_sakit
+syarat melimpahkan nomor porsi haji orang tua yang sudah meninggal,syarat_limpah_meninggal
+Apa saja syarat pendaftaran haji reguler di kantor?,syarat_daftar_kantor
+Bisa langsung jadi hari itu juga?,waktu_layanan
+Jelaskan mekanisme daftar haji dari rumah lewat HP,prosedur_daftar_online
+Hasil dari layanan pendaftaran di kantor itu apa?,produk_layanan
+"Oke, paham",terima_kasih
+Pengurusan porsi ahli waris ada biayanya?,biaya_layanan
+Informasi layanan kantor dong,jenis_layanan
+Harga emas hari ini berapa?,di_luar_cakupan
+prosedur mengundurkan diri dari antrean haji karena masalah ekonomi,prosedur_batal_ekonomi
+Seperti apa kompetensi petugas layanan?,info_petugas_pengawasan
+Terima kasih banyak atas bantuannya,terima_kasih
+Apa yang harus saya siapkan kalau mau mengalihkan nomor porsi haji jemaah yang wafat?,syarat_limpah_meninggal
+Apakah ada jaminan keselamatan dan keamanan layanan?,jaminan_data_pribadi
+Bagaimana cara pendaftaran haji reguler melalui layanan kantor?,prosedur_daftar_kantor
+lama proses berapa hari?,waktu_layanan
+Lama pengurusan haji di kantor berapa hari?,waktu_layanan
+Tolong jelaskan persyaratan daftar haji lewat aplikasi Haji Pnitar,syarat_daftar_online
+Halo,sapaan
+Syarat pembatalan haji reguler faktor ekonomi apa saja kak?,syarat_batal_ekonomi
+prosedur batalkan nomor porsi karena sakit,prosedur_batal_sakit
+Selamat malam,sapaan
+Biaya travel umrah paling murah berapa?,di_luar_cakupan
+persyaratan daftar haji lewat kantor,syarat_daftar_kantor
+Tolong jelaskan persyaratan batal haji jemaah skit,syarat_batal_sakit
+Apa yang harus saya siapkan kalau mau pembatalan haji reguler faktor ekonomi?,syarat_batal_ekonomi
+Email Kemenhaj Lhokseumawe apa?,kontak_pengaduan
+Kira-kira berapa lama urusannya?,waktu_layanan
+Apa yang harus saya siapkan kalau mau mendaftar haji secara elektronik?,syarat_daftar_online
+Setelah daftar haji saya dapat apa?,produk_layanan
+Langkah-langkah batalkan nomor porsi haji alasan ekonomi gimana?,prosedur_batal_ekonomi
+Berkas apa yang dibutuhkan untuk daftar haji reguler pakai Haji Pintar?,syarat_daftar_online
+Email resmi kantor Kementerian Haji dan Umrah Kota Lhokseumawe?,kontak_pengaduan
+"Mau daftar haji online, harus bawa apa?",syarat_daftar_online
+cara limpah porsi haji almarhum ke keluarga gimana ya?,prosedur_limpah_meninggal
+Kelengkapan apa yang perlu dibawa untuk pembatalan haji reguler jemaah sakit?,syarat_batal_sakit
+Bagaimana cara pembatalan haji reguler jemaah meninggal?,prosedur_batal_meninggal
+Proses ahli waris melimpahkan porsi haji itu bagaimana?,prosedur_limpah_meninggal
+Berkas apa yang dibutuhkan untuk mendaftar haji secara elektronik?,syarat_daftar_online
+cabut porsi haji karena ekonomi butuh dokumen apa?,syarat_batal_ekonomi
+Langkah-langkah lmipah porsi haji almarhum ke keluarga gimana?,prosedur_limpah_meninggal
+Bagaimana prosedur pelimpahan porsi haji untuk jemaah yang sakit permanen?,prosedur_limpah_sakit
+Persyaratan pembatalan haji reguler jemaah sakit apa aja ya?,syarat_batal_sakit
+"Sudah itu saja, terima kasih",terima_kasih
+batalkan nomor porsi haji alasan ekonomi butuh dokumen apa?,syarat_batal_ekonomi
+Langkah-langkah ahli waris membatalkan porsi haji gimana?,prosedur_batal_meninggal
+Apakah layanan haji butuh waktu berminggu-minggu?,waktu_layanan
+Tahapan limpah porsi haji almarhum ke keluarga seperti apa?,prosedur_limpah_meninggal
+mengurus pembatalan porsi haji suami yang meninggal butuh dokumen apa?,syarat_batal_meninggal
+Apakah data saya aman?,jaminan_data_pribadi
+Instagram kantor haji Lhokseumawe apa namanya?,kontak_pengaduan
+Bagaimana cara pindah nama porsi haji karena sakit permanen?,prosedur_limpah_sakit
+Gimana alur dftar haji manual di kantor?,prosedur_daftar_kantor
+"Saya mau membatalkan porsi haji karena tidak mampu lagi, mulai dari mana?",prosedur_batal_ekonomi
+Makasih banyak bot,terima_kasih
+Gimana alur pembatalan haji reguler jemaah meninggal?,prosedur_batal_meninggal
+Dokumen apa yang harus disiapkan untuk melimpahkan nomor porsi ke keluarga karena sakit permanen?,syarat_limpah_sakit
+"Saya mau pelimpahan haji reguler karena jemaah wafat, mulai dari mana?",prosedur_limpah_meninggal
+"Saya mau pelimpahan nomor porsi haji karena sakit permanen, mulai dari mana?",prosedur_limpah_sakit
+cara pelimpahan porsi haji untuk jemaah yang sakit permanen gimana ya?,prosedur_limpah_sakit
+Apakah SPH diterbitkan juga untuk pendaftaran online?,produk_layanan
+"Mau pelimpahan porsi haji untuk jemaah yang sakit permanen, harus bawa apa?",syarat_limpah_sakit
+Thanks,terima_kasih
+Selamat sore,sapaan
+Tolong jelaskan persyaratan pelimpahan porsi haji untuk jemaah yang sakit permanen,syarat_limpah_sakit
+Jazakallahu khairan,terima_kasih
+Langkah-langkah pelimpahan haji rguler jemaah sakit permanen gimana?,prosedur_limpah_sakit
+"Cukup, terima kasih",terima_kasih
+syarat pelimpahan nomor porsi haji karena sakit permanen,syarat_limpah_sakit
+persyaratan pembatalan porsi haji karena sakit yang diwakilkan keluarga,syarat_batal_sakit
+Persyaratan melimpahkan nomor porsi haji orang tua yang sudah meninggal apa aja ya?,syarat_limpah_meninggal
+Apa saja tahapan yang harus dilalui untuk mendaftar haji secara elektronik?,prosedur_daftar_online
+Apa saja syarat pembaatlan haji reguler faktor ekonomi?,syarat_batal_ekonomi
+Makasih ya,terima_kasih
+Bagaimana prosedur mengalihkan nomor porsi haji ke anggota keluarga karena sakit permanen?,prosedur_limpah_sakit
+daftar haji datang ke PTSP butuh dokumen apa?,syarat_daftar_kantor
+Berkas apa yang dibutuhkan untuk limpah porsi haji jemaah sakit permanen?,syarat_limpah_sakit
+Berapa ongkos urus nomor porsi di kantor?,biaya_layanan
+Tahapan limpah porsi haji jemaah sakit permanen seperti apa?,prosedur_limpah_sakit
+Ada uang administrasi untuk layanan?,biaya_layanan
+Jangka waktu penyelesaian pelayanan haji berapa lama?,waktu_layanan
+Alur pelimpahan nomor porsi haji karena sakit permanen bagaimana kak?,prosedur_limpah_sakit
+syarat mengalihkan nomor porsi haji jemaah yang wafat,syarat_limpah_meninggal
+Jelaskan mekanisme pembatalan haji reguler fatkor ekonomi,prosedur_batal_ekonomi
+"Saya mau membatalkan nomor porsi almarhum, mulai dari mana?",prosedur_batal_meninggal
+"Saya mau pendaftaran haji reguler melalui layanan kantor, mulai dari mana?",prosedur_daftar_kantor
+Gimana alur mendaftar haji secara offline?,prosedur_daftar_kantor
+Syarat daftar haji dari rumah lewat HP apa saja kak?,syarat_daftar_online
+prosedur limpah porsi haji jemaah sakit permanen,prosedur_limpah_sakit
+Perlengkapan apa yang ada di PTSP?,info_petugas_pengawasan
+Syarat mendaftar haji secara elektronik apa saja kak?,syarat_daftar_online
+Dokumen apa yang harus disiapkan untuk daftar haji langsung ke kantor Kemenhaj?,syarat_daftar_kantor
+Berapa hari kerja untuk menyelesaikan pendaftaran?,waktu_layanan
+Pengawasan internal dilakukan oleh siapa?,info_petugas_pengawasan
+Langkah-langkah pindah nama porsi haji karena sakit peranen gimana?,prosedur_limpah_sakit
+Bagaimana cara membuat paspor?,di_luar_cakupan
+cara pembatalan nomor porsi haji karena sakit gimana ya?,prosedur_batal_sakit
+Apa saja syarat pelimpahan nomor porsi haji jemaah meninggal dunia?,syarat_limpah_meninggal
+Apa yang harus saya siapkan kalau mau pembatalan nomor porsi haji jemaah yang sedang sakit?,syarat_batal_sakit
+"Saya mau ahli waris melimpahkan porsi haji, mulai dari mana?",prosedur_limpah_meninggal
+Dokumen apa yang harus disiapkan untuk pendaftaran haji tanpa datang ke kantor?,syarat_daftar_online
+"Halo, bisa minta bantuan?",sapaan
+Resep nasi goreng yang enak,di_luar_cakupan
+Daftar layanan haji reguler apa aja?,jenis_layanan
+Berkas apa yang dibutuhkan untuk daftar haji dari rumah lewat HP?,syarat_daftar_online
+"Mau daftar haji lewat kantor, harus bawa apa?",syarat_daftar_kantor
+"Mau limpah porsi haji almarhum ke keluarga, harus bawa apa?",syarat_limpah_meninggal
+Proses pindah nama porsi haji karena sakit permanen itu bagaimana?,prosedur_limpah_sakit
+Gimana alur pembatalan porsi haji jemaah yang meninggal dunia?,prosedur_batal_meninggal
+persyaratan pembatalan nomor porsi haji karena sakit,syarat_batal_sakit
+Alur melimpahkan nomor porsi ke keluarga karena sakit permanen bagaimana kak?,prosedur_limpah_sakit
+Bagaimana dapat nomor porsi haji?,produk_layanan
+Berapa lama nunggu SPH?,waktu_layanan
+Kelengkapan apa yang perlu dibawa untuk batal haji karena ekonomi?,syarat_batal_ekonomi
+Selamat siang,sapaan
+Dapat surat apa kalau sudah daftar haji?,produk_layanan
+Langkah-langkah pembatalan posri haji jemaah yang meninggal dunia gimana?,prosedur_batal_meninggal
+prosedur pembatalan porsi haji jemaah yang meninggal dunia,prosedur_batal_meninggal
+Kelengkapan apa yang perlu dibawa untuk daftar haji datang ke PTSP?,syarat_daftar_kantor
+"Sudah jelas, makasih",terima_kasih
+Mau lapor kalau ada petugas yang tidak ramah,kontak_pengaduan
+"Kalau mau urus haji, layanannya apa saja?",jenis_layanan
+Tolong buatkan puisi,di_luar_cakupan
+Dokumen apa yang harus disiapkan untuk pelimpahan nomor porsi haji karena sakit permanen?,syarat_limpah_sakit
+Jelaskan mekanisme pendafaran haji tanpa datang ke kantor,prosedur_daftar_online
+syarat mengalihkan nomor porsi haji ke anggota keluarga karena sakit permanen,syarat_limpah_sakit
+Bagaimana prosedur mengurus pembatalan porsi haji suami yang meninggal?,prosedur_batal_meninggal
+cara pembatalan nomor porsi haji orang tua yang sudah meninggal gimana ya?,prosedur_batal_meninggal
+Tahapan pengembalian storan awal haji jemaah yang wafat seperti apa?,prosedur_batal_meninggal
+Bagaimana cara membatalkan haji karena sakit pakai surat kuasa?,prosedur_batal_sakit
+Proses daftar haji lewat aplikasi Haji Pintar itu bagaimana?,prosedur_daftar_online
+Apa saja tahapan yang harus dilalui untuk pembatalan haji reguler jemaah sakit?,prosedur_batal_sakit
+Alur pengembalian setoran awal haji jemaah yang wafat bagaimana kak?,prosedur_batal_meninggal
+"Permisi, mau tanya",sapaan
+Taahpan daftar haji di Kemenhaj Lhokseumawe seperti apa?,prosedur_daftar_kantor
+Syarat pembatalan haji reguler jemaah meninggal apa saja kak?,syarat_batal_meninggal
+Boleh kirim pertanyaan lewat WA?,kontak_pengaduan
+syarat ahli waris membatalkan porsi haji,syarat_batal_meninggal
+Prosesnya makan waktu berapa lama?,waktu_layanan
+Apa saja tahapan yang harus dilalui untuk batal haji karena ekonomi?,prosedur_batal_ekonomi
+daftar haji dari rumah lewat HP butuh dokumen apa?,syarat_daftar_online
+syarat pelimpahan porsi haji suami yang meninggal ke istri,syarat_limpah_meninggal
+Bagaimana cara daftar haji dari rumah lewat HP?,prosedur_daftar_online
+"Mau pelimpahan nomor porsi haji jemaah meninggal dunia, harus bawa apa?",syarat_limpah_meninggal
+Kelengkapan apa yang perlu dibawa untuk daftar haji lewat aplikasi Haji Pintar?,syarat_daftar_online
+Proses limpah porsi haji jemaah sakit permanen itu bagaimana?,prosedur_limpah_sakit
+"Kalau ada kendala saat mengurus, hubungi siapa?",kontak_pengaduan
+Persyaratan batal haji karena jemaah wafat apa aja ya?,syarat_batal_meninggal
+Apa yang harus saya siapkan kalau mau pendaftaran haji reguler di kantor?,syarat_daftar_kantor
+Bagaimana prosedur pelimpahan nmoor porsi haji jemaah meninggal dunia?,prosedur_limpah_meninggal
+"Mantap, makasih infonya",terima_kasih
+Bagaimana cara daftar haji via aplikasi?,prosedur_daftar_online
+Apakah pelayanan bisa dipertanggungjawabkan?,jaminan_data_pribadi
+"Mau batal haji karena ekonomi, harus bawa apa?",syarat_batal_ekonomi
+Berapa biaya pelayanan pendaftaran haji di kantor?,biaya_layanan
+Apa fungsi Surat Pendaftaran Haji?,produk_layanan
+Apa saja tahapan yang harus dilalui untuk daftar haji langsung ke kantor Kemenhaj?,prosedur_daftar_kantor
+persyaartan daftar haji datang ke PTSP,syarat_daftar_kantor
+Rekomendasi film terbaru,di_luar_cakupan
+"Mau batal haji jemaah sakit, harus bawa apa?",syarat_batal_sakit
+Apa saja yang bisa diurus di Kantor Kementerian Haji dan Umrah Kota Lhokseumawe?,jenis_layanan
+Petugas harus bisa mengoperasikan apa?,info_petugas_pengawasan
+"Hai, ini chatbot kemenhaj ya?",sapaan
+Apakah bisa daftar haji dan batal haji di kantor ini?,jenis_layanan
+Syarat pendaftaran haji reguler melalui layanan kantor apa saja kak?,syarat_daftar_kantor
+Syarat daftar haji online apa saja kak?,syarat_daftar_online
+syarat batal haji karena ekonomi,syarat_batal_ekonomi
+Biaya pelimpahan porsi berapa?,biaya_layanan
+Dokumen apa yang harus disiapkan untuk batalkan nomor porsi karena sakit?,syarat_batal_sakit
+cara mendaftar haji secara elektronik gimana ya?,prosedur_daftar_online
+"Mau pembatalan porsi haji jemaah yang meninggal dunia, harus bawa apa?",syarat_batal_meninggal
+prosedur pembatalan haji reguler jemaah sakit,prosedur_batal_sakit
+Apa yang saya terima setelah pengajuan pembatalan?,produk_layanan
+pendaftaran haji reguler di kantor butuh dokumen apa?,syarat_daftar_kantor
+cara membatalkan haji karena sakit pakai surat kuasa gimana ya?,prosedur_batal_sakit
+Terima kasih sudah membantu,terima_kasih
+Jelaskan mekanisme pembatalan nomor porsi karena faktor ekonomi,prosedur_batal_ekonomi
+Alur mengalihkan nomor porsi haji ke anggota keluarga karena sakit permanen bagaimana kak?,prosedur_limpah_sakit
+Estimasi waktu pelimpahan porsi berapa lama?,waktu_layanan
+Pagi,sapaan
+"Kalau berkas lengkap, berapa hari selesainya?",waktu_layanan
+Berapa biaya pengurusan layanan di kantor?,biaya_layanan
+Gimana alur daftar haji lewat kantor?,prosedur_daftar_kantor
+Berkas apa yang dibutuhkan untuk pembatalan nomor porsi haji orang tua yang sudah meninggal?,syarat_batal_meninggal
+Bagaimana cara naik pesawat jemaah haji?,di_luar_cakupan
+Apakah pelayanan dijamin tepat waktu dan efisien?,jaminan_data_pribadi
+Alur daftar haji via aplikasi bagaimana kak?,prosedur_daftar_online
+Siapa saja yang bisa lihat data pendaftaran saya?,jaminan_data_pribadi
+Layanan haji di kantor ini gratis?,biaya_layanan
+Dokumen apa yang harus disiapkan untuk melimpahkan nomor porsi haji orng tua yang sudah meninggal?,syarat_limpah_meninggal
+Apa yang saya dapat setelah daftar haji?,produk_layanan
+"Mau limpah porsi haji jemaah sakit permanen, harus bawa apa?",syarat_limpah_sakit
+syarat melimpahkan nomor porsi ke keluarga karena sakit permanen,syarat_limpah_sakit
+Apa bukti pendaftaran haji yang diberikan petugas?,produk_layanan
+Bagaimana cara melimpahkan porsi haji ayah yang sakit permanen?,prosedur_limpah_sakit
+Proses mengundurkan diri dari antrean haji karena masalah ekonomi itu bagaimana?,prosedur_batal_ekonomi
+Berkas apa yang dibutuhkan untuk membatalkan porsi haji karena tidak mampu lagi?,syarat_batal_ekonomi
+kontak kemenhaj lhokseumawe,kontak_pengaduan
+Sarana dan prasarana layanan apa saja?,info_petugas_pengawasan
+Apa yang harus saya siapkan kalau mau pembatalan porsi haji jemaah yang meninggal dunia?,syarat_batal_meninggal
+Kantor Kemenhaj Lhokseumawe melayani apa saja?,jenis_layanan
+Apa saja syarat melimpahkan nomor porsi haji orang tua yang sudah meninggal?,syarat_limpah_meninggal
+Berapa setoran awal haji?,di_luar_cakupan
+"Salam, saya butuh informasi haji",sapaan
+"Saya mau pembatalan nomor porsi karna faktor ekonomi, mulai dari mana?",prosedur_batal_ekonomi
+Gimana alur membatalkan posi haji karena tidak mampu lagi?,prosedur_batal_ekonomi
+Halo min,sapaan
+Persyaratan daftar haji manual di kantor apa aja ya?,syarat_daftar_kantor
+persyaratan pengembalian setoran awal haji jemaah yang wafat,syarat_batal_meninggal
+Bagaimana jaminan keamanan pelayanan?,jaminan_data_pribadi
+Tolong jelaskan persyaratan daftar haji datang ke PTSP,syarat_daftar_kantor
+mendaftar haji secara offline butuh dokumen apa?,syarat_daftar_kantor
+Layanan ini gratis atau bayar?,biaya_layanan
+Kelengakpan apa yang perlu dibawa untuk pembatalan haji reguler jemaah meninggal?,syarat_batal_meninggal
+Nomor WhatsApp kantor haji Lhokseumawe berapa?,kontak_pengaduan
+Tolong jelaskan persyaratan pelimpahan haji reguler karena jemaah wafat,syarat_limpah_meninggal
+Tolong jelaskan persyaratan batalkan nomor porsi karena sakit,syarat_batal_sakit
+Tahapan mengalihkan nomor porsi haji jemaah yang wafat seperti apa?,prosedur_limpah_meninggal
+Alur membatalkan porsi haji karena kondisi kesehatan bagaimana kak?,prosedur_batal_sakit
+Proses batal haji karena ekonomi itu bagaimana?,prosedur_batal_ekonomi
+persyaratan mengundurkan diri dari antrean haji karena masalah ekonomi,syarat_batal_ekonomi
+Mohon info semua layanan haji reguler,jenis_layanan
+"Mau mengalihkan nomor porsi haji ke anggota keluarga karena sakit permanen, harus bawa apa?",syarat_limpah_sakit
+Tolong jelaskan persyaratan menarik setoran awal haji kaerna faktor ekonomi,syarat_batal_ekonomi
+Bagaimana prosedur pelimpahan nomor porsi haji karena sakit permanen?,prosedur_limpah_sakit
+"Mau pembatalan nomor porsi haji orang tua yang sudah meninggal, harus bawa apa?",syarat_batal_meninggal
+"Mau mendafar haji secara elektronik, harus bawa apa?",syarat_daftar_online
+prosedur limpah porsi haji almarhum ke keluarga,prosedur_limpah_meninggal
+Tahapan pembatalan porsi haji jemaah yang meninggal dunia seperti apa?,prosedur_batal_meninggal
+persyaratan melimpahkan nomor porsi ke keluarga karena sakit permaenn,syarat_limpah_sakit
+Syarat pendaftaran haji reguler di kantor apa saja kak?,syarat_daftar_kantor
+Berkas apa yang dibutuhkan untuk melimpahkan nomor porsi haji orang tua yang sudah meninggal?,syarat_limpah_meninggal
+Proses batalkan nomor porsi karnea sakit itu bagaimana?,prosedur_batal_sakit
+Ada berapa jenis layanan haji di sini?,jenis_layanan
+Cara install aplikasi WhatsApp,di_luar_cakupan
+Persyaratan ahli waris membatalkan porsi haji apa aja ya?,syarat_batal_meninggal
+Jelaskan mekanisme mengalihkan nomor porsi haji jemaah yang wafat,prosedur_limpah_meninggal
+Apa itu SISKOHAT?,info_petugas_pengawasan
+prosedur pindah nama porsi haji karena sakit permanen,prosedur_limpah_sakit
+Alur daftar haji reguler pakai Haji Pintar bagaimana kak?,prosedur_daftar_online
+Syarat pembatalan porsi haji jemaah yang meninggal dunia apa saja kak?,syarat_batal_meninggal
+Apa saja syarat pelimpahan nomor porsi haji karena sakit permanen?,syarat_limpah_sakit
+Kapan pelunasan BPIH dibuka?,di_luar_cakupan
+Jelaskan mekanisme pelimpahan nomor porsi haji jemaah meninggal dunia,prosedur_limpah_meninggal
+"Halo, saya mau bertanya",sapaan
+Alur pindah nama porsi haji dari almarhum ke anak bagaimana kak?,prosedur_limpah_meninggal
+Persyaratan daftar haji langsung ke kantor Kemenhaj apa aja ya?,syarat_daftar_kantor
+Langkah-langkah pendaftaran haji reguler melalui layanan kantor gimana?,prosedur_daftar_kantor
+Terima kasih atas informasinya,terima_kasih
+Berapa BPIH haji tahun ini?,di_luar_cakupan
+Apakah mengurus SPH harus bayar?,biaya_layanan
+Tolong jelaskan persyaratan pendaftaran haji reguler di kantor,syarat_daftar_kantor
+Bagaimana prosedur daftar haji datang ke PTSP?,prosedur_daftar_kantor
+Berapa biaya umrah?,di_luar_cakupan
+Hello,sapaan
+Dokumen apa yang hrus disiapkan untuk pendaftaran haji reguler di kantor?,syarat_daftar_kantor
+Apa itu SPH?,produk_layanan
+Syarat pindah nama porsi haji dari almarhum ke anak apa saja kak?,syarat_limpah_meninggal
+Apa saja tahapan yang harus dilalui untuk pindah nama porsi haji karena sakit permanen?,prosedur_limpah_sakit
+limpah porsi haji jemaah sait permanen butuh dokumen apa?,syarat_limpah_sakit
+Halo chatbot,sapaan
+Kelengkapan apa yang perlu dibawa untuk pindah nama porsi haji karena sakit permanen?,syarat_limpah_sakit
+Tolong jelaskan persyaratan pelimpahan nomor porsi haji jemaah meninggal dunia,syarat_limpah_meninggal
+persyaratan membatalkan porsi haji karnea kondisi kesehatan,syarat_batal_sakit
+Apa yang harus saya siapkan kalau mau mendaftar haji secara offline?,syarat_daftar_kantor
+Alamat email pengaduan apa?,kontak_pengaduan
+"Saya mau pembatalan nomor porsi haji jemaah yang sedang sakit, mulai dari mana?",prosedur_batal_sakit
+Gimana alur pendaftaran haji reguler di kantor?,prosedur_daftar_kantor
+Syarat batal haji jemaah sakit apa saja kak?,syarat_batal_sakit
+Alur daftar haji manual di kantor bagaimana kak?,prosedur_daftar_kantor
+Proses pembatalan haji reguler faktor ekonomi itu bagaimana?,prosedur_batal_ekonomi
+Tolong jelaskan persyaratan membatalkan porsi haji karena kondisi kesehatan,syarat_batal_sakit
+Oke deh makasih,terima_kasih
+Syarat mengurus pembatalan porsi haji suami yang meninggal apa saja kak?,syarat_batal_meninggal
+Apa jaminan kualitas layanan di kantor ini?,jaminan_data_pribadi
+Layanan untuk ahli waris jemaah ada nggak?,jenis_layanan
+pembatalan nomor porsi haji orang tua yang sudah meninggal butuh dokumen apa?,syarat_batal_meninggal
+Aman gak isi data di aplikasi haji?,jaminan_data_pribadi
+Proses pelimpahan porsi cepat nggak?,waktu_layanan
+Berapa lama antrean haji di Aceh?,di_luar_cakupan
+Siapa yang mengawasi petugas layanan?,info_petugas_pengawasan
+"Mau pendaftaran haji reguler lewat layanan elektronik, harus bawa apa?",syarat_daftar_online
+Bagaimana pengawasan layanan di kantor?,info_petugas_pengawasan
+"Mau ahli waris membatalkan posi haji, harus bawa apa?",syarat_batal_meninggal
+Alur melimpahkan nomor porsi haji orang tua yang sudah meninggal bagaimana kak?,prosedur_limpah_meninggal
+Langkah-langkah menarik setoran awal haji karena faktor ekonomi gimana?,prosedur_batal_ekonomi
+proseur mengalihkan nomor porsi haji ke anggota keluarga karena sakit permanen,prosedur_limpah_sakit
+syarat mengurus pembatalan porsi haji suami yang meninggal,syarat_batal_meninggal
+list layanan kemenhaj,jenis_layanan
+Gimana alur mengalihkan noomr porsi haji jemaah yang wafat?,prosedur_limpah_meninggal
+Apakah bisa selesai dalam sehari?,waktu_layanan
+Bagaimana prosedur batal haji karena ekonomi?,prosedur_batal_ekonomi
+Surat Pendaftaran Haji itu apa?,produk_layanan
+Bisa urus apa aja di kantor haji?,jenis_layanan
+Syarat pembatalan prosi haji karena sakit yang diwakilkan keluarga apa saja kak?,syarat_batal_sakit
+Aman nggak kasih dokumen pribadi ke petugas?,jaminan_data_pribadi
+Saluran pengaduan resmi apa saja?,kontak_pengaduan
+Bagaimana prosedur mendaftar haji secara elektronik?,prosedur_daftar_online
+Apakah kerahasiaan data jemaah terjamin?,jaminan_data_pribadi
+Tolong jelaskan persyaratan pendaftaran haji reguler lewat layanan elektronik,syarat_daftar_online
+Di mana bisa menyampaikan keluhan layanan haji?,kontak_pengaduan
+Kapan jadwal keberangkatan saya?,di_luar_cakupan
+persyaratan cabut porsi haji karena ekonomi,syarat_batal_ekonomi
+Apa syarat visa umrah?,di_luar_cakupan
+Produk pelayanan pendaftaran haji reguler apa?,produk_layanan
+"Baik, terima kasih penjelasannya",terima_kasih
+Bagaimana prosedur ahli waris membatalkan porsi haji?,prosedur_batal_meninggal
+Apa saja layanan haji di kantor ini?,jenis_layanan
+Tolong sebutkan layanan yang tersedia,jenis_layanan
+"Selain daftar haji, ada layanan apa lagi?",jenis_layanan
+"Kalau pelimpahan selesai, dapat dokumen apa?",produk_layanan
+Dokumen apa yang harus disiapkan untuk daftar haji di Kemenhaj Lhokseumawe?,syarat_daftar_kantor
+Apakah daftar haji di kantor dipungut biaya?,biaya_layanan
+Jelaskan mekanisme daftar haji langsung ke kantor Kemenhaj,prosedur_daftar_kantor
+Dokumen apa yang harus disiapkan untuk membatalkan porsi haji karena tidak mampu lagi?,syarat_batal_ekonomi
+Proses pembatalan haji reguler jemaah sait itu bagaimana?,prosedur_batal_sakit
+Persyaratan mengalihkan nomor porsi haji ke anggota keluarga karena sakit permanen apa aja ya?,syarat_limpah_sakit
+Selamat datang,sapaan
+Apa komitmen kantor terhadap kerahasiaan data?,jaminan_data_pribadi
+prosedur ahli waris melimpahkan porsi haji,prosedur_limpah_meninggal
+Kelengkapan apa yang perlu dibawa untuk dftar haji reguler pakai Haji Pintar?,syarat_daftar_online
+"Saya mau daftar haji via aplikasi, mulai dari mana?",prosedur_daftar_online
+Berapa lama proses pendaftaran haji?,waktu_layanan
+Batas waktu penyelesaian layanan berapa hari?,waktu_layanan
+Kapan SPH selesai dicetak?,waktu_layanan
+Langkah-langkah pembatalan porsi haji karena sakit yang diwakilkan keluarga gimana?,prosedur_batal_sakit
+Apakah data jemaah dikelola sesuai peraturan?,jaminan_data_pribadi
+Berkas apa yang dibutuhkan untuk melimpahkan porsi haji ayah yang sakit permanen?,syarat_limpah_sakit
+cara membatalkan porsi haji karena tidak mampu lagi gimana ya?,prosedur_batal_ekonomi
+Bagaimana prosedur membatalkan haji karena sakit pakai surat kuasa?,prosedur_batal_sakit
+Ada berapa orang petugas di loket haji?,info_petugas_pengawasan
+persyaratan pindah nama porsi haji dari almarhum ke anak,syarat_limpah_meninggal
+Ok makasih,terima_kasih
+Bagaimana prosedur mendaftar haji secara offline?,prosedur_daftar_kantor
+syarat menarik setoran awal haji karena faktor ekonomi,syarat_batal_ekonomi
+"Mau pelimpahan nomor porsi haji karena sakit permanen, harus bawa apa?",syarat_limpah_sakit
+Tahpan pembatalan haji reguler jemaah meninggal seperti apa?,prosedur_batal_meninggal
+Dokumen apa yang harus disiapkan untuk pelimpahan haji reguler karena jemaah wafat?,syarat_limpah_meninggal
+Berapa lama jangka waktu layanan?,waktu_layanan
+prosedur membatalkan porsi haji karena tidak mampu lagi,prosedur_batal_ekonomi
+"Oke sip, terima kasih infonya",terima_kasih
+Mengurus pembatalan haji bayar nggak?,biaya_layanan
+Hai,sapaan
+Langkah-langkah pembatalan haji reguler faktor ekonomi gimana?,prosedur_batal_ekonomi
+Kontak yang bisa dihubungi apa?,kontak_pengaduan
+melimpahkan nomor porsi haji orang tua yang sudah meninggal butuh dokumen apa?,syarat_limpah_meninggal
+Bagaimana prosedur melimpahkan porsi haji ayah yang sakit permanen?,prosedur_limpah_sakit
+Apakah petugas boleh minta uang pengurusan?,biaya_layanan
+Persyaratan membatalkan porsi haji karena tidak mampu lagi apa aja ya?,syarat_batal_ekonomi
+Apakah SOP diterapkan dalam semua layanan?,jaminan_data_pribadi
+Langkah-langkah pendaftaran haji tanpa datang ke kantor gimana?,prosedur_daftar_online
+Jelaskan mekanisme batal haji karena eknoomi,prosedur_batal_ekonomi
+persyaratan batal haji jemaah sakit,syarat_batal_sakit
+Layanan apa yang bisa saya urus di sini?,jenis_layanan
+Berapa tarif pembatalan porsi?,biaya_layanan
+"Saya mau daftar haji reguler pakai Haji Pintar, mulai dari mana?",prosedur_daftar_online
+Tahapan pelimpahan nomor porsi haji jemaah meninggal dunia seperti apa?,prosedur_limpah_meninggal
+prosedur pelimpahan porsi haji untuk jemaah yang sakit permanen,prosedur_limpah_sakit
+Alur pembatalan nomor porsi haji jemaah yang sedang sakit bagaimana kak?,prosedur_batal_sakit
+"Mau pindah nama porsi haji karena sakit permanen, harus bawa apa?",syarat_limpah_sakit
+prosedur pembatalan posi haji karena sakit yang diwakilkan keluarga,prosedur_batal_sakit
+Jenis pelayanan yang tersedia apa saja?,jenis_layanan
+Berkas apa yang dibutuhkan untuk batal haji karena ekonomi?,syarat_batal_ekonomi
+Persyaratan pengembalian setoran awal haji jemaah yang wafat apa aja ya?,syarat_batal_meninggal
+Tahapan ahli waris membatalkan porsi haji seperti apa?,prosedur_batal_meninggal
+Berapa lama pengurusan porsi jemaah meninggal?,waktu_layanan
+Proses mengalihkan nomor porsi haji ke anggota keluarga karena sakit permanen itu bagaimana?,prosedur_limpah_sakit
+batal haji jemaah sakit butuh dokumen apa?,syarat_batal_sakit
+Apakah layanan pelimpahan porsi tersedia di sini?,jenis_layanan
+Instagram resmi kantor apa?,kontak_pengaduan
+Dokumen apa yang diserahkan petugas di akhir layanan?,produk_layanan
+Bagaimana kantor menjaga data pribadi kami?,jaminan_data_pribadi
+"Setelah daftar online, bukti pendaftarannya apa?",produk_layanan
+Siang kak,sapaan
+Bagaimana kalau saya mau komplain pelayanan?,kontak_pengaduan
+persyaratan pembatalan nomor porsi karena faktor ekonomi,syarat_batal_ekonomi
+Saya mau tanya layanan yang tersedia,jenis_layanan
+Bisa tanya lewat telepon nggak?,kontak_pengaduan
+Fasilitas apa yang tersedia di ruang pelayanan?,info_petugas_pengawasan
+Alur pembatalan porsi haji jemaah yang meninggal dunia bagaimana kak?,prosedur_batal_meninggal
+"Mau mengalihkan nomor porsi haji jemaah yang wafat, harus bawa apa?",syarat_limpah_meninggal
+Gimana alur daftar haji langsung ke kantor Kemenhaj?,prosedur_daftar_kantor
+Bagaimana cara batal haji karena jemaah wafat?,prosedur_batal_meninggal
+Kelengkapan apa yang perlu dibawa untuk cabut porsi haji karena ekonomi?,syarat_batal_ekonomi
+Assalamualaikum warahmatullahi wabarakatuh,sapaan
+Bagaimana hukum tawaf sambil menggendong anak?,di_luar_cakupan
+Apa saja syarat pembatalan porsi haji jemaah yang meninggal dunia?,syarat_batal_meninggal
+Bisa dibantu?,sapaan
+Waktu penyelesaian layanan di kantor haji?,waktu_layanan
+Dokumen apa yang diterbitkan setelah pembatalan?,produk_layanan
+Bagaimana cara pendaftaran haji tanpa datang ke kantor?,prosedur_daftar_online
+P,sapaan
+Gimana alur ahli waris melimpahkan porsi haji?,prosedur_limpah_meninggal
+Cara cek estimasi keberangkatan haji?,di_luar_cakupan
+syarat pelimpahan porsi haji untuk jemaah yang sakit permanen,syarat_limpah_sakit
+Tahapan membatalkan haji karena sakit pakai surat kuasa seperti apa?,prosedur_batal_sakit
+Tahapan daftar haji datang ke PTSP seperti apa?,prosedur_daftar_kantor
+Seberapa cepat layanan diproses?,waktu_layanan
+Jadwal manasik haji kapan?,di_luar_cakupan
+Dokumen apa yang harus disiapkan untuk cabut porsi haji karna ekonomi?,syarat_batal_ekonomi
+Apa yang harus saya siapkan kalau mau pembatalan haji reguler jemaah meninggal?,syarat_batal_meninggal
+Seberapa sering kinerja layanan dievaluasi?,info_petugas_pengawasan
+Apakah petugas menguasai SISKOHAT?,info_petugas_pengawasan
+Bagaimana perlindungan data pribadi saat daftar haji?,jaminan_data_pribadi
+Data pribadi jemaah dijaga kerahasiaannya?,jaminan_data_pribadi
+Apa saja tahapan yang harus dilalui untuk ahli waris melimpahkan porsi haji?,prosedur_limpah_meninggal
+Jelaskan mekanisme melimpahkan porsi haji ayah yang sakit permanen,prosedur_limpah_sakit
+Biaya layanan nol rupiah ya?,biaya_layanan
+Bagaimana prosedur cabut porsi haji karena ekonomi?,prosedur_batal_ekonomi
+membatalkan nomor posi almarhum butuh dokumen apa?,syarat_batal_meninggal
+Apa yang harus saya siapkan kalau mau batal haji jemaah sakit?,syarat_batal_sakit
+Apa saja syarat pelimpahan porsi haji untuk jemaah yang sakit permanen?,syarat_limpah_sakit
+Bisa hubungi kantor lewat apa?,kontak_pengaduan
+Tahapan pembatalan haji reguler faktor ekonomi seperti apa?,prosedur_batal_ekonomi
+Alur pindah nama porsi haji karena sakit permanen bagaimana kak?,prosedur_limpah_sakit
+menarik setoran awal haji karena faktor ekonomi butuh dokumen apa?,syarat_batal_ekonomi
+Apakah ada layanan untuk jemaah yang sakit?,jenis_layanan
+Selamat pagi,sapaan
+"Saya mau ahli waris membaatlkan porsi haji, mulai dari mana?",prosedur_batal_meninggal
+pelimpahan porsi haji suami yang meninggal ke istri butuh dokumen apa?,syarat_limpah_meninggal
+Jelaskan mekanisme membatalkan haji karena sakit pakai surat kuasa,prosedur_batal_sakit
+Syarat membatalkan haji karena sakit pakai surat kuasa apa saja kak?,syarat_batal_sakit
+Apa jaminan pelayanan yang diberikan petugas?,jaminan_data_pribadi
+Syarat pembatalan nomor porsi karena faktor eknomi apa saja kak?,syarat_batal_ekonomi
+Dokumen apa yang harus disiapkan untuk menarik setoran awal haji karena faktor ekonomi?,syarat_batal_ekonomi
+Ada pungutan biaya nggak?,biaya_layanan
+Apa saja syarat melimpahkan prsi haji ayah yang sakit permanen?,syarat_limpah_sakit
+Apa saja tahapan yang harus dilalui untuk pelimpahan haji reguler karena jemaah wafat?,prosedur_limpah_meninggal
+"Saya mau limpah porsi haji almarhum ke keluarga, mulai dari mana?",prosedur_limpah_meninggal
+Berkas apa yang dibutuhkan untuk membatalkan haji karena sakit pakai srat kuasa?,syarat_batal_sakit
+Sip,terima_kasih
+Data KTP saya bisa disalahgunakan nggak?,jaminan_data_pribadi
+Apa produk layanan pendaftaran haji?,produk_layanan
+Dokumen apa yang harus disiapkan untuk limpah porsi haji almarhum ke keluarga?,syarat_limpah_meninggal
+jaminan keamanan data jemaah,jaminan_data_pribadi
+Bagaimana cara menyampaikan saran?,kontak_pengaduan
+Cara mengurus haji khusus bagaimana?,di_luar_cakupan
+Terima kasih,terima_kasih
+Berapa petugas yang melayani?,info_petugas_pengawasan
+Giamna alur pendaftaran haji reguler lewat layanan elektronik?,prosedur_daftar_online
+persyaratan membatalkan haji karena sakit pakai surat kuasa,syarat_batal_sakit
+Bagaimana prosedur mengundurkan diri dari antrean haji karena masalah ekonomi?,prosedur_batal_ekonomi
+Jelaskan mekanisme daftar haji di Kemenhaj Lhokseumawe,prosedur_daftar_kantor
+Syarat ahli waris membatalkan posri haji apa saja kak?,syarat_batal_meninggal
+Petugas layanannya berapa orang?,info_petugas_pengawasan
+Bagaimana kepastian dan keamanan proses pelayanan?,jaminan_data_pribadi
+"Alhamdulillah, jelas sekali",terima_kasih
+"Saya mau pendaftaran haji reguler lewat layanan elektronik, mulai dari mana?",prosedur_daftar_online
+membatalkan haji karena sakit pakai surat kuasa butuh dokumen apa?,syarat_batal_sakit
+Perlu bayar berapa untuk layanan pendaftaran online?,biaya_layanan
+Apakah petugasnya ASN?,info_petugas_pengawasan
+Alur pembatalan haji reguler jemaah meninggal bagaimana kak?,prosedur_batal_meninggal
+Layanan apa saja yang ada di Kemenhaj Lhokseumawe?,jenis_layanan
+Ada layanan pembatalan porsi haji nggak?,jenis_layanan
+Data pribadi saya dijamin nggak?,jaminan_data_pribadi
+Bagaimana prosedur pengembalian setoran awal haji jemaah yang wafat?,prosedur_batal_meninggal
+"Mau pendaftaran haji reguler di kantor, harus bawa apa?",syarat_daftar_kantor
+Assalamualaikum,sapaan
+Tahapan daftar haji reguler pakai Haji Pintar seperti apa?,prosedur_daftar_online
+Layanan apa saja yang ada di standar pelayanan?,jenis_layanan
+Ada WhatsApp untuk tanya-tanya layanan?,kontak_pengaduan
+prosedur daftar haji lewat kantor,prosedur_daftar_kantor
+Langkah-langkah daftar haji manual di kantor gimana?,prosedur_daftar_kantor
+Bagaimana prosedur membatalkan nomor porsi almarhum?,prosedur_batal_meninggal
+Dokumen apa yang harus disiapkan untuk batal haji karena ekonomi?,syarat_batal_ekonomi
+Dokumen apa yang harus disiapkan untuk daftar haji lewat kantor?,syarat_daftar_kantor
+"Baik kak, terima kasih",terima_kasih
+Apa yang harus saya siapkan kalau mau pembatalan nomor porsi haji karena sakit?,syarat_batal_sakit
+apa itu surat pendaftaran haji,produk_layanan
+cara pindah nama porsi haji dari almarhum ke anak gimana ya?,prosedur_limpah_meninggal
+Dokumen apa yang harus disiapkan untuk pelimpahan haji reguler jemaah sakit permanen?,syarat_limpah_sakit
+Berapa hari pengurusan pembatalan porsi?,waktu_layanan
+Proses limpah porsi haji almarhum ke keluarga itu bagaimana?,prosedur_limpah_meninggal
+Nomor telepon kantor Kemenhaj Lhokseumawe?,kontak_pengaduan
+Apa yang harus saya siapkan kalau mau cabut porsi haji karena ekonomi?,syarat_batal_ekonomi
+Berkas apa yang dibutuhkan untuk daftar haji via aplikasi?,syarat_daftar_online
+Hasil akhir layanan pelimpahan apa?,produk_layanan
+Kelengkapan apa yang perlu dibawa untuk menarik setoran awal haji karena faktor ekonomi?,syarat_batal_ekonomi
+Cuaca hari ini bagaimana?,di_luar_cakupan
+Apakah layanan sesuai SOP?,jaminan_data_pribadi
+Kelengkapan apa yang perlu dibawa untuk pendaftaran haji reguler lewat layanan elektronik?,syarat_daftar_online
+Tolong jelaskan persyaratan mendaftar haji secara offline,syarat_daftar_kantor
+Bagaimana cara mengundurkan diri dari antrean haji karena masalah ekonomi?,prosedur_batal_ekonomi
+Jelaskan mekanisme daftar haji datang ke PTSP,prosedur_daftar_kantor
+Bagaimana cara mengajukan pengaduan?,kontak_pengaduan
+Bagaimana cara mengalihkan nomor porsi haji jemaah yang wafat?,prosedur_limpah_meninggal
+Berkas apa yang dibutuhkan untuk membatalkan nomor porsi almarhum?,syarat_batal_meninggal
+Alur ahli waris membatalkan porsi haji bagaimana kak?,prosedur_batal_meninggal
+"Saya mau daftar haji manual di kantor, mulai dari mana?",prosedur_daftar_kantor
+Tolong jelaskan persyaratan melimpahkan nomor porsi haji orang tua yang sudah meninggal,syarat_limpah_meninggal
+Tolong jelaskan persyaratan pelimpahan haji reguler jemaah sakit permanen,syarat_limpah_sakit
+Persyaratan batal haji jemaah sakit apa aja ya?,syarat_batal_sakit
+Layanan pelimpahan dikenakan biaya?,biaya_layanan
+Apakah ada biaya tambahan di loket?,biaya_layanan
+Vaksin meningitis di mana?,di_luar_cakupan
+Gimana alur membatalkan haji karena sakit pakai surat kuasa?,prosedur_batal_sakit
+cara mengurus pembatalan porsi haji suami yang meninggal gimana ya?,prosedur_batal_meninggal
+cara pembatalan nomor porsi karena faktor ekonomi gimana ya?,prosedur_batal_ekonomi
+Kualifikasi petugas pelayanan apa saja?,info_petugas_pengawasan
+Ruang lingkup layanan kantor haji apa?,jenis_layanan
+Setelah pembatalan saya menerima bukti apa?,produk_layanan
+Alur pendaftaran haji reguler lewat layanan elektronik bagaimana kak?,prosedur_daftar_online
+Berapa kali evaluasi layanan dilakukan dalam setahun?,info_petugas_pengawasan
+Bagaimana prosedur limpah porsi haji almarhum ke keluarga?,prosedur_limpah_meninggal
+Kelengkapan apa yang perlu dibawa unuk mendaftar haji secara offline?,syarat_daftar_kantor
+Makasih kak,terima_kasih
+Fasilitas pelayanan kantor haji apa saja?,info_petugas_pengawasan
+Berkas apa yang dibutuhkan untuk pendaftaran haji tanpa datang ke kantor?,syarat_daftar_online
+cara membatalkan nomor porsi almarhum gimana ya?,prosedur_batal_meninggal
+Jelaskan mekanisme pendaftaran haji reguler melalui layanan kantor,prosedur_daftar_kantor
+Nomor yang bisa dihubungi untuk konsultasi layanan?,kontak_pengaduan
+Kapan layanan saya selesai?,waktu_layanan
+Tarif layanan kantor Kemenhaj berapa?,biaya_layanan
+Bagaimana prsedur melimpahkan nomor porsi haji orang tua yang sudah meninggal?,prosedur_limpah_meninggal
+Proses pendaftaran haji tanpa datang ke kantor itu bagaimana?,prosedur_daftar_online
+Kelenkgapan apa yang perlu dibawa untuk ahli waris melimpahkan porsi haji?,syarat_limpah_meninggal
+Apakah ada kamera dan printer di ruang layanan?,info_petugas_pengawasan
+Berkas apa yang dibutuhkan untuk pelimpahan nomor porsi haji jemaah meninggal dunia?,syarat_limpah_meninggal
+syarat pembatalan haji reguler jemaah sakit,syarat_batal_sakit
+syarat daftar haji langsung ke kantor Kemenhaj,syarat_daftar_kantor
+Gimana alur melimpahkan porsi haji ayah yang sakit permanen?,prosedur_limpah_sakit
+Langkah-langkah pelimpahan haji reguler karena jemaah wafat gimana?,prosedur_limpah_meninggal
+Jelaskan mekanisme pembatalan nomor porsi haji jemaah yang sedang sakit,prosedur_batal_sakit
+"Saya mau pembatalan haji reguler faktor ekonomi, mulai dari mana?",prosedur_batal_ekonomi
+Skor bola tadi malam berapa?,di_luar_cakupan
+Apa yang diberikan setelah ahli waris mengurus pembatalan?,produk_layanan
+Siapa presiden Indonesia?,di_luar_cakupan
+Akun media sosial kantor haji apa?,kontak_pengaduan
+Berkas apa yang dibutuhkan untuk batal haji jemaah sakit?,syarat_batal_sakit
+Siapa atasan yang mengawasi pelayanan?,info_petugas_pengawasan
+Petugas melayani dengan cara bagaimana?,info_petugas_pengawasan
+"Mau mengurus pembatalan porsi haji suami yang meninggal, harus bawa apa?",syarat_batal_meninggal
+Nomor porsi ada di dokumen apa?,produk_layanan
+Penanganan pengaduan layanan bagaimana?,kontak_pengaduan
+Apa saja syarat daftar haji lewat alikasi Haji Pintar?,syarat_daftar_online
+SPH isinya apa saja?,produk_layanan
+jumlah petugas layanan haji,info_petugas_pengawasan
+Gimana alur pembatalan haji reguler jeaah sakit?,prosedur_batal_sakit
+syarat daftar haji lewat kantor,syarat_daftar_kantor
+prosedur melimpahkan nomor porsi ke keluarga karena sakit permanen,prosedur_limpah_sakit
+"Katanya ada biaya jasa urus berkas, benar?",biaya_layanan
+Proses menarik setoran awal haji karena faktor ekonomi itu bagaimana?,prosedur_batal_ekonomi
+cara pembatalan porsi haji karena sakit yang diwakilkan keluarga gimana ya?,prosedur_batal_sakit
+persyaratan pembatalan porsi haji jemaah yang meninggal dunia,syarat_batal_meninggal
+Bagaimana cara pelimpahan haji reguler karena jemaah wafat?,prosedur_limpah_meninggal
+Layanan apa aja sih yang ada?,jenis_layanan
+Bukti pelimpahan nomor porsi diberikan nggak?,produk_layanan
+Tolong jelaskan persyaratan mengalihkan nomor porsi haji jemaah yang wafat,syarat_limpah_meninggal
+Gimnaa alur pelimpahan porsi haji untuk jemaah yang sakit permanen?,prosedur_limpah_sakit
+syarat cabut porsi haji karena ekonomi,syarat_batal_ekonomi
+Gimana alur daftar haji online?,prosedur_daftar_online
+prosedur pindah nama porsi haji dari almarhum ke anak,prosedur_limpah_meninggal
+Bagaimana prosedur datar haji via aplikasi?,prosedur_daftar_online
+Apa ada tarif untuk layanan haji?,biaya_layanan
+Bagaimana cara melimpahkan nomor porsi ke keluarga karena sakit permanen?,prosedur_limpah_sakit
+Jelaskan mekanisme membatalkan nomor porsi almarhum,prosedur_batal_meninggal
+Biaya apa saja yang harus dibayar saat mengurus layanan?,biaya_layanan
+syarat pembatalan nomor porsi karena faktor ekonomi,syarat_batal_ekonomi
+"Terima kasih, sangat membantu",terima_kasih
+Tolong jelaskan persyaratan daftar haji di Kemenhaj Lhokseumawe,syarat_daftar_kantor
+Apa saja syarat pendaftaran haji reguler lewat layanan elektronik?,syarat_daftar_online
+Gimana alur daftar haji reguler pakai Haji Pintar?,prosedur_daftar_online
+Apa saja tahapan yang harus dilalui untuk batal haji jemaah sakit?,prosedur_batal_sakit
+"Setelah dokumen lengkap, berapa lama diproses?",waktu_layanan
+Apa saja tahapan yang harus dilalui untuk pendaftaran haji tanpa datang ke kantor?,prosedur_daftar_online

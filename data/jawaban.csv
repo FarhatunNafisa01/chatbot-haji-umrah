@@ -1,0 +1,138 @@
+intent,jawaban,sumber
+syarat_daftar_kantor,"Syarat pendaftaran haji reguler melalui layanan kantor:
+1. Kartu Tanda Penduduk
+2. Kartu Keluarga
+3. Akta Lahir/Nikah/Ijazah","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.1"
+prosedur_daftar_kantor,"Prosedur pendaftaran haji reguler melalui layanan kantor:
+1. Jemaah mengambil nomor antrean PTSP
+2. Petugas memeriksa kelengkapan persyaratan
+3. Berkas diverifikasi
+4. Petugas menginput data pada SISKOHAT
+5. Perekaman foto
+6. Petugas mencetak dan menyerahkan Surat Pendaftaran Haji (SPH) yang memuat Nomor Porsi
+7. Pelayanan selesai","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.1"
+syarat_daftar_online,"Syarat pendaftaran haji reguler melalui layanan elektronik:
+1. Kartu Tanda Penduduk
+2. Kartu Keluarga
+3. Akta Lahir/Nikah/Ijazah
+4. Bukti Setoran Awal
+5. Paspor
+6. Perangkat elektronik
+7. Alamat email dan nomor telepon aktif","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.2"
+prosedur_daftar_online,"Prosedur pendaftaran haji reguler melalui layanan elektronik:
+1. Calon jemaah mengakses aplikasi Haji Pintar
+2. Login menggunakan akun yang telah didaftarkan
+3. Mengisi data pendaftaran dan mengunggah dokumen persyaratan
+4. Sistem melakukan validasi data
+5. Petugas melakukan verifikasi administrasi secara elektronik
+6. Jika data lengkap dan valid, sistem menerbitkan bukti pendaftaran/SPH yang memuat Nomor Porsi secara elektronik atau mengarahkan jemaah ke proses lanjutan sesuai ketentuan
+7. Layanan selesai","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.2"
+syarat_batal_ekonomi,"Syarat pembatalan nomor porsi haji reguler karena faktor ekonomi:
+1. Kartu Tanda Penduduk
+2. Surat permohonan pembatalan dari jemaah bermaterai 10.000
+3. Bukti Setoran Awal
+4. Surat Pendaftaran Haji (SPH) yang memuat Nomor Porsi
+5. Buku Tabungan Haji","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.3"
+prosedur_batal_ekonomi,"Prosedur pembatalan nomor porsi haji reguler karena faktor ekonomi:
+1. Jemaah datang ke Kantor Kementerian Haji dan Umrah dengan membawa persyaratan
+2. Petugas menerima dan memeriksa kelengkapan dokumen
+3. Petugas memverifikasi data dan identitas jemaah
+4. Petugas menginput permohonan pembatalan pada Sistem Informasi Haji
+5. Berkas diproses sesuai ketentuan yang berlaku
+6. Jemaah menerima bukti pengajuan pembatalan
+7. Dana setoran awal diproses pengembaliannya melalui mekanisme yang berlaku setelah pembatalan disetujui","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.3"
+syarat_batal_meninggal,"Syarat pembatalan nomor porsi haji reguler karena jemaah meninggal dunia:
+1. KTP ahli waris
+2. Kartu Keluarga
+3. Surat permohonan pembatalan dari ahli waris
+4. Surat Keterangan Kematian atau Akta Kematian
+5. Surat Pendaftaran Haji (SPH)/Nomor Porsi
+6. Bukti Setoran Awal
+7. Buku Tabungan
+8. Surat Keterangan Ahli Waris","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.4"
+prosedur_batal_meninggal,"Prosedur pembatalan nomor porsi haji reguler karena jemaah meninggal dunia:
+1. Ahli waris mengajukan permohonan pembatalan ke Kantor Kementerian Haji dan Umrah
+2. Petugas menerima dan memeriksa kelengkapan dokumen
+3. Petugas memverifikasi dokumen dan status ahli waris
+4. Petugas menginput permohonan pembatalan ke Sistem Informasi Haji
+5. Berkas diproses sesuai ketentuan yang berlaku
+6. Ahli waris menerima bukti pengajuan pembatalan
+7. Dana setoran awal BPIH diproses pengembaliannya kepada ahli waris sesuai ketentuan yang berlaku","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.4"
+syarat_batal_sakit,"Syarat pembatalan nomor porsi haji reguler karena jemaah sakit:
+1. Surat permohonan pembatalan dari jemaah atau kuasanya
+2. Kartu Tanda Penduduk
+3. Surat Pendaftaran Haji (SPH) yang memuat Nomor Porsi
+4. Bukti Setoran Awal
+5. Buku Tabungan Haji
+6. Surat kuasa apabila pengurusan diwakilkan","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.5"
+prosedur_batal_sakit,"Prosedur pembatalan nomor porsi haji reguler karena jemaah sakit:
+1. Jemaah atau kuasanya mengajukan permohonan pembatalan ke Kantor Kementerian Haji dan Umrah
+2. Petugas menerima dan memeriksa kelengkapan persyaratan
+3. Petugas memverifikasi dokumen administrasi dan surat keterangan kesehatan
+4. Petugas menginput permohonan pembatalan pada Sistem Informasi Haji
+5. Berkas diproses sesuai ketentuan yang berlaku
+6. Pemohon menerima bukti pengajuan pembatalan
+7. Dana setoran awal diproses pengembaliannya sesuai mekanisme yang berlaku","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.5"
+syarat_limpah_sakit,"Syarat pelimpahan nomor porsi haji reguler karena jemaah sakit permanen:
+1. Surat permohonan pelimpahan nomor porsi
+2. Surat Pernyataan Tanggung Jawab Mutlak (SPTJM)
+3. KTP elektronik jemaah dan calon penerima pelimpahan
+4. Kartu Keluarga
+5. Akta Kelahiran/Buku Nikah
+6. Surat Pendaftaran Haji (SPH)
+7. Bukti Setoran Awal BPIH
+8. Buku Tabungan haji pada bank yang sama
+9. Surat keterangan dari dokter rumah sakit pemerintah yang menyatakan jemaah sakit permanen dan tidak mampu melaksanakan ibadah haji","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.6"
+prosedur_limpah_sakit,"Prosedur pelimpahan nomor porsi haji reguler karena jemaah sakit permanen:
+1. Pemohon mengambil nomor antrean PTSP
+2. Petugas menerima dan memeriksa kelengkapan persyaratan
+3. Petugas memverifikasi administrasi dan hubungan keluarga
+4. Petugas memverifikasi surat keterangan sakit permanen
+5. Data diinput ke SISKOHAT oleh Kantor Wilayah
+6. Calon penerima pelimpahan melakukan perekaman foto dan biometrik
+7. Petugas menerbitkan bukti pelimpahan nomor porsi sesuai ketentuan
+8. Pelayanan selesai","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.6"
+syarat_limpah_meninggal,"Syarat pelimpahan nomor porsi haji reguler karena jemaah meninggal dunia:
+1. Surat permohonan pelimpahan nomor porsi
+2. Surat Pernyataan Tanggung Jawab Mutlak (SPTJM)
+3. KTP elektronik jemaah dan calon penerima pelimpahan
+4. Kartu Keluarga
+5. Akta Kelahiran/Buku Nikah
+6. Surat Pendaftaran Haji (SPH)
+7. Bukti Setoran Awal BPIH
+8. Buku Tabungan haji pada bank yang sama","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.7"
+prosedur_limpah_meninggal,"Prosedur pelimpahan nomor porsi haji reguler karena jemaah meninggal dunia:
+1. Ahli waris mengambil nomor antrean PTSP
+2. Petugas menerima dan memeriksa kelengkapan persyaratan
+3. Petugas memverifikasi administrasi, hubungan keluarga, dan keabsahan dokumen kematian
+4. Data diinput ke SISKOHAT oleh Kantor Wilayah
+5. Calon penerima pelimpahan melakukan perekaman foto dan biometrik apabila dipersyaratkan
+6. Petugas menerbitkan bukti pelimpahan nomor porsi kepada penerima yang memenuhi persyaratan
+7. Pelayanan selesai","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.7"
+jenis_layanan,"Layanan yang tercakup dalam Standar Pelayanan Kantor Kementerian Haji dan Umrah Kota Lhokseumawe:
+1. Pendaftaran Haji Reguler melalui Layanan Kantor
+2. Pendaftaran Haji Reguler melalui Layanan Elektronik
+3. Pembatalan Nomor Porsi Haji Reguler Faktor Ekonomi
+4. Pembatalan Nomor Porsi Haji Reguler Jemaah Meninggal Dunia
+5. Pembatalan Nomor Porsi Haji Reguler Jemaah Sakit
+6. Pelimpahan Nomor Porsi Haji Reguler Jemaah Sakit Permanen
+7. Pelimpahan Nomor Porsi Haji Reguler Jemaah Meninggal Dunia
+Anda bisa menanyakan syarat atau prosedur dari masing-masing layanan.","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, C"
+waktu_layanan,Semua layanan di atas diselesaikan selambat-lambatnya 1 hari kerja setelah dokumen dinyatakan lengkap.,"SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.1-D.7 (butir 4)"
+biaya_layanan,Semua layanan di atas tidak dipungut biaya (gratis).,"SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.1-D.7 (butir 5)"
+produk_layanan,"Produk pelayanan:
+1. Pendaftaran haji reguler (kantor/elektronik): Surat Pendaftaran Haji (SPH) yang memuat Nomor Porsi
+2. Pembatalan karena faktor ekonomi: bukti pembatalan pendaftaran haji reguler dan rekomendasi pencairan setoran awal sesuai ketentuan
+3. Pembatalan karena jemaah meninggal dunia: bukti pembatalan dan rekomendasi pengembalian setoran awal kepada ahli waris sesuai ketentuan
+4. Pembatalan karena jemaah sakit: bukti pengajuan pembatalan
+5. Pelimpahan (sakit permanen/meninggal dunia): bukti pelimpahan nomor porsi haji reguler kepada anggota keluarga/ahli waris yang memenuhi persyaratan","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.1-D.7 (butir 6)"
+kontak_pengaduan,"Pengaduan, saran, dan pertanyaan dapat disampaikan melalui:
+1. Email: lhokseumawekota@haji.go.id
+2. Instagram: kemenhaj.lhokseumawe
+3. Telepon atau WhatsApp: 082283883288","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.1-D.7 (butir 10)"
+jaminan_data_pribadi,"Jaminan layanan: pelayanan diselenggarakan dengan efisien, tepat waktu, dan dapat dipertanggungjawabkan.
+Jaminan keamanan: data pribadi jemaah haji dijamin kerahasiaannya dan dikelola sesuai ketentuan peraturan perundang-undangan; proses pelayanan dilakukan sesuai Standar Operasional Prosedur (SOP).","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.1-D.7 (butir 12-13)"
+info_petugas_pengawasan,"Layanan dilaksanakan oleh 2 orang petugas (ASN) yang memahami peraturan terkait pelayanan, mampu mengoperasikan komputer, internet, dan SISKOHAT, teliti memverifikasi data, serta santun dalam menyampaikan informasi. Sarana: ruang pelayanan/PTSP, ATK, jaringan internet, komputer, kamera, penerang ruangan, ponsel, dan printer. Pengawasan internal dilakukan oleh atasan langsung, dan evaluasi kinerja dilakukan sekurang-kurangnya setahun sekali.","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran, D.1-D.7 (butir 7-9, 11, 14)"
+sapaan,"Assalamualaikum, selamat datang di layanan informasi Kantor Kementerian Haji dan Umrah Kota Lhokseumawe. Silakan tanyakan syarat, prosedur, waktu, atau biaya layanan haji reguler.","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran"
+terima_kasih,"Sama-sama. Jika masih ada yang ingin ditanyakan seputar layanan haji, silakan sampaikan.","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran"
+di_luar_cakupan,"Maaf, informasi tersebut belum tersedia di layanan ini. Saya dapat membantu seputar syarat, prosedur, waktu, biaya, dan produk layanan haji reguler di Kantor Kemenhaj Kota Lhokseumawe. Untuk informasi lain, silakan hubungi WhatsApp 082283883288 atau email lhokseumawekota@haji.go.id.","SK Kepala Kantor Kemenhaj Kota Lhokseumawe No. KEP-21 Tahun 2026, Lampiran"
